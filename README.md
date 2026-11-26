@@ -30,7 +30,7 @@ The application uses Java multithreading to handle multiple client connections c
 
 ## Documentation
 
-Project documentation and UML design diagrams are available in the [`docs`](docs/) directory.
+Project documentation and UML design diagrams are available in the [`doc`](doc/) directory.
 
 ## Development Environment
 
